@@ -8,6 +8,10 @@
 * email : xp970805@gmail.com 
 * github : [xpnice](https://github.com/xpnice)
 
+字节_Data_AML机器学习平台_chong1144
+* email : 1144165853@qq.com
+* github : [chong1144](https://github.com/chong1144)
+
 ## 加入我们
 
 如果你也想分享自己的资料，可邮件：
