@@ -8,7 +8,7 @@
 在复习中参考以上博客较多。
 
 ## 春招找实习面经
-* 
+* https://github.com/wenjunBZ/RushForOffer/blob/master/%E9%9D%A2%E7%BB%8F.md
 
 ### 关于.h文件
 solution.h 为<<剑指offer>>书中的代码。暂时不全，等待补充
