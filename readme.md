@@ -6,7 +6,7 @@
 ## 联系我们
 腾讯_CSIG_IMWeb前端_xpnice
 * email : xp970805@gmail.com 
-* github : github.com/xpnice
+* github : [xpnice](https://github.com/xpnice)
 
 ## 加入我们
 
